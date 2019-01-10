@@ -1,0 +1,16 @@
+{
+  "name": "@mamadoo/spacekiller",
+  "version": "1.0.0",
+  "description": "Remove spaces from strings",
+  "main": "index.js",
+  "keywords": [
+    "space",
+    "remove spaces"
+  ],
+  "author": "Mohammad Esfandiari",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mamadoo/spacekiller.git"
+  }
+}
